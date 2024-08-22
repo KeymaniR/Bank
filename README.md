@@ -21,4 +21,4 @@ In order to run server:
 
   Need to listen on on http://localhost:5173/home
 
-  You may also need to download the node modules found in the node modules folder
+  You may also need to download the node modules folder within the terminal
