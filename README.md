@@ -12,3 +12,13 @@ Future features include:
 - Creating multiple account types for one user.
 - Loan Services
 - Chat box
+
+In order to run client:
+- Need to run "npm run dev" in the terminal
+
+In order to run server:
+- Need to run "npm run devStart" in the terminal
+
+  Need to listen on on http://localhost:5173/home
+
+  You may also need to download the node modules found in the node modules folder
