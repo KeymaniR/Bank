@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+body{
+  background-color: #FAF9F6;
+  font-family: "Comic Neue", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: #BFCC82;
+}
+
+.welcomeMsg{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.homeBanner{
+  height: 350px;
+  border-radius:5px;
+  background-color: rgb(40,40,40);
+}
+
+.bannerText{
+  justify-content: center;
+  text-align: center;
+  width: 350px;
+  padding-top: 40px;
+  font-size: 1.3rem;
+}
+
+
+.loginForm{
+  border-radius: 5px;
+  padding-bottom: 50px;
+  padding: 40px;
+  padding-top:10px;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
